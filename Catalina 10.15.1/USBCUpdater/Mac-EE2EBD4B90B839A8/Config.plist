@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>USBC</key>
+	<array>
+		<dict>
+			<key>RID</key>
+			<integer>0</integer>
+			<key>Port Silicon Vendor ID</key>
+			<integer>40</integer>
+			<key>Port Silicon Device ID</key>
+			<real>826622785</real>
+			<key>Port Silicon Revision</key>
+			<integer>48</integer>
+			<key>MinBoardRevision</key>
+			<integer>0</integer>
+			<key>MaxBoardRevision</key>
+			<integer>30</integer>
+			<key>Version</key>
+			<real>058600</real>
+			<key>Firmware</key>
+			<string>Mac-EE2EBD4B90B839A8-5.86.0.bin</string>
+		</dict>
+	</array>
+</dict>
+</plist>
