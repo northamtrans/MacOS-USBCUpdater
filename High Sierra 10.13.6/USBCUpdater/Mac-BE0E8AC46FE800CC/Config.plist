@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LegacyUSBC</key>
+	<dict>
+		<key>RID</key>
+		<integer>0</integer>
+		<key>Port Silicon Vendor ID</key>
+		<integer>2599</integer>
+		<key>Port Silicon Device ID</key>
+		<integer>24</integer>
+		<key>Port Silicon Revision</key>
+		<integer>0</integer>
+		<key>Port Address</key>
+		<integer>36</integer>
+		<key>Version</key>
+		<real>33400</real>
+		<key>Firmware</key>
+		<string>Mac-BE0E8AC46FE800CC-33400.bin</string>
+		<key>ClearNVRAM</key>
+		<array>
+			<string>HPMUpdateResult</string>
+		</array>
+	</dict>
+</dict>
+</plist>
